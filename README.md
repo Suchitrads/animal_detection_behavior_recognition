@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1uU-EjdVO9keYNkrRa-UlTr-WO-U7zV6L?usp=dri
 
 Steps After Downloading the Project
 1. Clone the repository:
-   git clone https://github.com/Suchitrads/animal-detection-behavior-recognition.git
+   git clone https://github.com/Suchitrads/animal_detection_behavior_recognition.git
    cd animal-detection-behavior-recognition
 
 2. Setup the frontend:
