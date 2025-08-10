@@ -1,0 +1,37 @@
+[
+    {
+        "filename": "7.jpg",
+        "prediction": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Elephant_grazing"
+        ],
+        "behavior_summary": "Zebra_Zebra_grazing: 1\nZebra_Elephant_grazing: 1",
+        "timestamp": "2025-04-14 18:58:12"
+    },
+    {
+        "filename": "7.jpg",
+        "prediction": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Elephant_grazing"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_grazing": 1,
+            "Zebra_Elephant_grazing": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:12:10"
+    },
+    {
+        "filename": "7.jpg",
+        "prediction": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Elephant_grazing"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_grazing": 1,
+            "Zebra_Elephant_grazing": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:12:17"
+    }
+]

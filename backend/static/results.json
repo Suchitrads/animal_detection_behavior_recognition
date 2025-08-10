@@ -1,0 +1,2136 @@
+[
+    {
+        "filename": "7.jpg",
+        "prediction": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Elephant_grazing"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_grazing": 1,
+            "Zebra_Elephant_grazing": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:19:29"
+    },
+    {
+        "filename": "7.jpg",
+        "prediction": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Elephant_grazing"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_grazing": 1,
+            "Zebra_Elephant_grazing": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:22:25"
+    },
+    {
+        "filename": "7.jpg",
+        "prediction": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Elephant_grazing"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_grazing": 1,
+            "Zebra_Elephant_grazing": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:22:25"
+    },
+    {
+        "filename": "8.jpg",
+        "prediction": [
+            "Zebra_Zebra_grazing"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_grazing": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:23:23"
+    },
+    {
+        "filename": "8.jpg",
+        "prediction": [
+            "Zebra_Zebra_grazing"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_grazing": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:25:24"
+    },
+    {
+        "filename": "8.jpg",
+        "prediction": [
+            "Zebra_Zebra_grazing"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_grazing": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:25:25"
+    },
+    {
+        "filename": "4.jpg",
+        "prediction": [
+            "Zebra_Zebra_running"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_running": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:25:43"
+    },
+    {
+        "filename": "6.jpg",
+        "prediction": [
+            "Zebra_Zebra_running"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_running": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:28:28"
+    },
+    {
+        "filename": "6.jpg",
+        "prediction": [
+            "Zebra_Zebra_running"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_running": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:30:07"
+    },
+    {
+        "filename": "80.jpg",
+        "prediction": [
+            "Zebra_Zebra_running"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_running": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:35:40"
+    },
+    {
+        "filename": "8.jpg",
+        "prediction": [
+            "Zebra_Zebra_grazing"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_grazing": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:43:22"
+    },
+    {
+        "filename": "8.jpg",
+        "prediction": [
+            "Zebra_Zebra_grazing"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_grazing": 1
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:44:18"
+    },
+    {
+        "filename": "66.jpg",
+        "prediction": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Zebra_grazing",
+            "Zebra_Zebra_grazing"
+        ],
+        "behavior_summary": {
+            "Zebra_Zebra_grazing": 3
+        },
+        "output_image": "static/output_image.jpg",
+        "timestamp": "2025-04-14 19:47:48"
+    },
+    {
+        "imageUrl": "static/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "static/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Deer_resting"
+        ]
+    },
+    {
+        "imageUrl": "static/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "static/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "static/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "static/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "static/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Zebra_running",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "static/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "static/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Zebra_running",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "static/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Zebra_running",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "static/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing",
+            "Zebra_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_grazing",
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_grazing",
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_grazing",
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_grazing",
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_grazing",
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing",
+            "Deer_Zebra_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing",
+            "Deer_Zebra_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing",
+            "Deer_Zebra_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing",
+            "Deer_Zebra_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing",
+            "Deer_Zebra_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_grazing",
+            "Elephant_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_trumpeting"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_grazing",
+            "Deer_Deer_running",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing",
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Deer_grazing",
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Deer_grazing",
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_grazing",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_grazing",
+            "Deer_Deer_running",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing",
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_grazing",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing",
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_grazing",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Deer_grazing",
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing",
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing",
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_grazing",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_grazing",
+            "Deer_Deer_running",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": []
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing",
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_grazing",
+            "Deer_Deer_running",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing",
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_grazing",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Deer_grazing",
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_grazing",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_grazing",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Deer_grazing",
+            "Deer_Deer_running",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Zebra_grazing",
+            "Elephant_Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_grazing",
+            "Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_Elephant_grazing",
+            "Zebra_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Deer_grazing",
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Deer_grazing",
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_Deer_grazing",
+            "Deer_Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Deer_grazing",
+            "Zebra_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Elephant_grazing",
+            "Deer_grazing"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "behaviorSummary": [
+            "Zebra_running"
+        ]
+    },
+    {
+        "imageUrl": "http://127.0.0.1:5000/static/results/output_image.jpg",
+        "summary": {
+            "animal_counts_line": "Elephant:2",
+            "behavior_line": "Elephant_grazing, Elephant_grazing"
+        }
+    },
+    {
+        "image": "results/output_20250427194743.jpg",
+        "animal_counts": {
+            "Deer": 1,
+            "Zebra": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 1,
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250427194743.zip"
+    },
+    {
+        "image": "results/output_20250427195157.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250427195157.zip"
+    },
+    {
+        "image": "results/output_20250427195217.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250427195217.zip"
+    },
+    {
+        "image": "results/output_20250427195352.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250427195352.zip"
+    },
+    {
+        "image": "results/output_20250427195416.jpg",
+        "animal_counts": {
+            "Elephant": 1,
+            "Deer": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 1,
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250427195416.zip"
+    },
+    {
+        "image": "results/output_20250427201947.jpg",
+        "animal_counts": {
+            "Deer": 1,
+            "Zebra": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 1,
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250427201947.zip"
+    },
+    {
+        "image": "results/output_20250427202330.jpg",
+        "animal_counts": {
+            "Elephant": 1,
+            "Deer": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 1,
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250427202330.zip"
+    },
+    {
+        "image": "results/output_20250427202916.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250427202916.zip"
+    },
+    {
+        "image": "results/output_20250427203257.jpg",
+        "animal_counts": {
+            "Deer": 1,
+            "Zebra": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 1,
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250427203257.zip"
+    },
+    {
+        "image": "results/output_20250427204232.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250427204232.zip"
+    },
+    {
+        "image": "results/output_20250427205720.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250427205720.zip"
+    },
+    {
+        "image": "results/output_20250427210049.jpg",
+        "animal_counts": {
+            "Elephant": 1,
+            "Deer": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 1,
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250427210049.zip"
+    },
+    {
+        "image": "results/output_20250427210113.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250427210113.zip"
+    },
+    {
+        "image": "results/output_20250427225104.jpg",
+        "animal_counts": {
+            "Elephant": 1,
+            "Deer": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 1,
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250427225104.zip"
+    },
+    {
+        "image": "results/output_20250427232303.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250427232303.zip"
+    },
+    {
+        "image": "results/output_20250429053014.jpg",
+        "animal_counts": {
+            "Elephant": 1,
+            "Deer": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 1,
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250429053014.zip"
+    },
+    {
+        "image": "results/output_20250429053804.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250429053805.zip"
+    },
+    {
+        "image": "results/output_20250429053851.jpg",
+        "animal_counts": {
+            "Deer": 3,
+            "Zebra": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 2,
+            "Deer_running": 1,
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250429053851.zip"
+    },
+    {
+        "image": "results/output_20250429054237.jpg",
+        "animal_counts": {
+            "Elephant": 1,
+            "Deer": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 1,
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250429054237.zip"
+    },
+    {
+        "image": "results/output_20250429054333.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250429054333.zip"
+    },
+    {
+        "image": "results/output_20250429054355.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250429054355.zip"
+    },
+    {
+        "image": "results/output_20250501114054.jpg",
+        "animal_counts": {
+            "Elephant": 1,
+            "Deer": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 1,
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250501114054.zip"
+    },
+    {
+        "image": "results/output_20250501114805.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250501114805.zip"
+    },
+    {
+        "image": "results/output_20250501120433.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250501120433.zip"
+    },
+    {
+        "image": "results/output_20250501120500.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250501120500.zip"
+    },
+    {
+        "image": "results/output_20250501120511.jpg",
+        "animal_counts": {
+            "Zebra": 3
+        },
+        "behaviors": {
+            "Zebra_running": 3
+        },
+        "zip": "results/result_20250501120511.zip"
+    },
+    {
+        "image": "results/output_20250501121239.jpg",
+        "animal_counts": {
+            "Deer": 3,
+            "Zebra": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 2,
+            "Deer_running": 1,
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250501121239.zip"
+    },
+    {
+        "image": "results/output_20250501180849.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250501180849.zip"
+    },
+    {
+        "image": "results/output_20250501181725.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250501181725.zip"
+    },
+    {
+        "image": "results/output_20250501182310.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250501182310.zip"
+    },
+    {
+        "image": "results/output_20250501182423.jpg",
+        "animal_counts": {
+            "Deer": 1,
+            "Zebra": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 1,
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250501182423.zip"
+    },
+    {
+        "image": "results/output_20250501182512.jpg",
+        "animal_counts": {
+            "Elephant": 1,
+            "Deer": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 1,
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250501182512.zip"
+    },
+    {
+        "image": "results/output_20250501182534.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250501182534.zip"
+    },
+    {
+        "image": "results/output_20250501182942.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250501182942.zip"
+    },
+    {
+        "image": "results/output_20250501183006.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250501183006.zip"
+    },
+    {
+        "image": "results/output_20250501232838.jpg",
+        "animal_counts": {
+            "Elephant": 1
+        },
+        "behaviors": {
+            "Elephant_running": 1
+        },
+        "zip": "results/result_20250501232838.zip"
+    },
+    {
+        "image": "results/output_20250501232926.jpg",
+        "animal_counts": {
+            "Elephant": 1,
+            "Deer": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 1,
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250501232926.zip"
+    },
+    {
+        "image": "results/output_20250501232942.jpg",
+        "animal_counts": {
+            "Elephant": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 1
+        },
+        "zip": "results/result_20250501232942.zip"
+    },
+    {
+        "image": "results/output_20250501233000.jpg",
+        "animal_counts": {
+            "Elephant": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 1
+        },
+        "zip": "results/result_20250501233000.zip"
+    },
+    {
+        "image": "results/output_20250501233019.jpg",
+        "animal_counts": {
+            "Deer": 1,
+            "Elephant": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 1,
+            "Elephant_grazing": 1
+        },
+        "zip": "results/result_20250501233019.zip"
+    },
+    {
+        "image": "results/output_20250501233036.jpg",
+        "animal_counts": {
+            "Zebra": 2
+        },
+        "behaviors": {
+            "Zebra_grazing": 2
+        },
+        "zip": "results/result_20250501233036.zip"
+    },
+    {
+        "image": "results/output_20250501233048.jpg",
+        "animal_counts": {
+            "Zebra": 1
+        },
+        "behaviors": {
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250501233048.zip"
+    },
+    {
+        "image": "results/output_20250501233100.jpg",
+        "animal_counts": {
+            "Zebra": 1
+        },
+        "behaviors": {
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250501233100.zip"
+    },
+    {
+        "image": "results/output_20250501233111.jpg",
+        "animal_counts": {
+            "Zebra": 1
+        },
+        "behaviors": {
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250501233111.zip"
+    },
+    {
+        "image": "results/output_20250501233125.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_resting": 1
+        },
+        "zip": "results/result_20250501233125.zip"
+    },
+    {
+        "image": "results/output_20250504221604.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_resting": 1
+        },
+        "zip": "results/result_20250504221604.zip"
+    },
+    {
+        "image": "results/output_20250504221626.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_resting": 1
+        },
+        "zip": "results/result_20250504221626.zip"
+    },
+    {
+        "image": "results/output_20250504222727.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_resting": 1
+        },
+        "zip": "results/result_20250504222727.zip"
+    },
+    {
+        "image": "results/output_20250504222754.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_resting": 1
+        },
+        "zip": "results/result_20250504222754.zip"
+    },
+    {
+        "image": "results/output_20250504222838.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_resting": 1
+        },
+        "zip": "results/result_20250504222838.zip"
+    },
+    {
+        "image": "results/output_20250504222901.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250504222901.zip"
+    },
+    {
+        "image": "results/output_20250504224413.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250504224413.zip"
+    },
+    {
+        "image": "results/output_20250504224729.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_resting": 1
+        },
+        "zip": "results/result_20250504224729.zip"
+    },
+    {
+        "image": "results/output_20250504224756.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250504224756.zip"
+    },
+    {
+        "image": "results/output_20250504224812.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_resting": 1
+        },
+        "zip": "results/result_20250504224812.zip"
+    },
+    {
+        "image": "results/output_20250504224821.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_resting": 1
+        },
+        "zip": "results/result_20250504224821.zip"
+    },
+    {
+        "image": "results/output_20250504224918.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_running": 1
+        },
+        "zip": "results/result_20250504224918.zip"
+    },
+    {
+        "image": "results/output_20250504225518.jpg",
+        "animal_counts": {
+            "Deer": 2
+        },
+        "behaviors": {
+            "Deer_resting": 2
+        },
+        "zip": "results/result_20250504225518.zip"
+    },
+    {
+        "image": "results/output_20250505094001.jpg",
+        "animal_counts": {
+            "Deer": 8
+        },
+        "behaviors": {
+            "Deer_resting": 5,
+            "Deer_grazing": 3
+        },
+        "zip": "results/result_20250505094001.zip"
+    },
+    {
+        "image": "results/output_20250505094203.jpg",
+        "animal_counts": {
+            "Deer": 8
+        },
+        "behaviors": {
+            "Deer_grazing": 2,
+            "Deer_running": 2,
+            "Deer_resting": 4
+        },
+        "zip": "results/result_20250505094203.zip"
+    },
+    {
+        "image": "results/output_20250505094420.jpg",
+        "animal_counts": {
+            "Deer": 8
+        },
+        "behaviors": {
+            "Deer_grazing": 4,
+            "Deer_trumpeting": 1,
+            "Deer_running": 1,
+            "Deer_resting": 2
+        },
+        "zip": "results/result_20250505094420.zip"
+    },
+    {
+        "image": "results/output_20250505094519.jpg",
+        "animal_counts": {
+            "Deer": 5
+        },
+        "behaviors": {
+            "Deer_grazing": 2,
+            "Deer_running": 2,
+            "Deer_resting": 1
+        },
+        "zip": "results/result_20250505094519.zip"
+    },
+    {
+        "image": "results/output_20250505094621.jpg",
+        "animal_counts": {
+            "Deer": 5,
+            "Zebra": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 2,
+            "Deer_running": 1,
+            "Deer_resting": 2,
+            "Zebra_resting": 1
+        },
+        "zip": "results/result_20250505094621.zip"
+    },
+    {
+        "image": "results/output_20250505094758.jpg",
+        "animal_counts": {
+            "Deer": 7
+        },
+        "behaviors": {
+            "Deer_grazing": 2,
+            "Deer_running": 1,
+            "Deer_resting": 4
+        },
+        "zip": "results/result_20250505094758.zip"
+    },
+    {
+        "image": "results/output_20250505095000.jpg",
+        "animal_counts": {
+            "Deer": 4
+        },
+        "behaviors": {
+            "Deer_running": 1,
+            "Deer_resting": 2,
+            "Deer_trumpeting": 1
+        },
+        "zip": "results/result_20250505095000.zip"
+    },
+    {
+        "image": "results/output_20250505095130.jpg",
+        "animal_counts": {
+            "Deer": 8
+        },
+        "behaviors": {
+            "Deer_grazing": 4,
+            "Deer_trumpeting": 1,
+            "Deer_running": 1,
+            "Deer_resting": 2
+        },
+        "zip": "results/result_20250505095130.zip"
+    },
+    {
+        "image": "results/output_20250505101224.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 2,
+            "Elephant_running": 1
+        },
+        "zip": "results/result_20250505101224.zip"
+    },
+    {
+        "image": "results/output_20250505101337.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 2,
+            "Elephant_running": 1
+        },
+        "zip": "results/result_20250505101337.zip"
+    },
+    {
+        "image": "results/output_20250505101416.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250505101416.zip"
+    },
+    {
+        "image": "results/output_20250505101433.jpg",
+        "animal_counts": {
+            "Deer": 2
+        },
+        "behaviors": {
+            "Deer_grazing": 2
+        },
+        "zip": "results/result_20250505101433.zip"
+    },
+    {
+        "image": "results/output_20250505101445.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_running": 1
+        },
+        "zip": "results/result_20250505101445.zip"
+    },
+    {
+        "image": "results/output_20250505101520.jpg",
+        "animal_counts": {
+            "Deer": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 1
+        },
+        "zip": "results/result_20250505101520.zip"
+    },
+    {
+        "image": "results/output_20250505101632.jpg",
+        "animal_counts": {
+            "Elephant": 4
+        },
+        "behaviors": {
+            "Elephant_grazing": 3,
+            "Elephant_running": 1
+        },
+        "zip": "results/result_20250505101632.zip"
+    },
+    {
+        "image": "results/output_20250505121604.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250505121604.zip"
+    },
+    {
+        "image": "results/output_20250505121642.jpg",
+        "animal_counts": {
+            "Elephant": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 1
+        },
+        "zip": "results/result_20250505121642.zip"
+    },
+    {
+        "image": "results/output_20250505122238.jpg",
+        "animal_counts": {
+            "Deer": 1,
+            "Elephant": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 1,
+            "Elephant_grazing": 1
+        },
+        "zip": "results/result_20250505122238.zip"
+    },
+    {
+        "image": "results/output_20250505122253.jpg",
+        "animal_counts": {
+            "Elephant": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 1
+        },
+        "zip": "results/result_20250505122253.zip"
+    },
+    {
+        "image": "results/output_20250505122523.jpg",
+        "animal_counts": {
+            "Elephant": 1,
+            "Deer": 2
+        },
+        "behaviors": {
+            "Elephant_running": 1,
+            "Deer_grazing": 1,
+            "Deer_trumpeting": 1
+        },
+        "zip": "results/result_20250505122523.zip"
+    },
+    {
+        "image": "results/output_20250505122547.jpg",
+        "animal_counts": {
+            "Elephant": 1
+        },
+        "behaviors": {
+            "Elephant_trumpeting": 1
+        },
+        "zip": "results/result_20250505122547.zip"
+    },
+    {
+        "image": "results/output_20250505122605.jpg",
+        "animal_counts": {
+            "Elephant": 4
+        },
+        "behaviors": {
+            "Elephant_grazing": 3,
+            "Elephant_trumpeting": 1
+        },
+        "zip": "results/result_20250505122605.zip"
+    },
+    {
+        "image": "results/output_20250505122811.jpg",
+        "animal_counts": {
+            "Elephant": 4
+        },
+        "behaviors": {
+            "Elephant_trumpeting": 2,
+            "Elephant_running": 1,
+            "Elephant_grazing": 1
+        },
+        "zip": "results/result_20250505122811.zip"
+    },
+    {
+        "image": "results/output_20250505122936.jpg",
+        "animal_counts": {
+            "Elephant": 2
+        },
+        "behaviors": {
+            "Elephant_running": 2
+        },
+        "zip": "results/result_20250505122936.zip"
+    },
+    {
+        "image": "results/output_20250505123041.jpg",
+        "animal_counts": {
+            "Elephant": 6
+        },
+        "behaviors": {
+            "Elephant_grazing": 6
+        },
+        "zip": "results/result_20250505123041.zip"
+    },
+    {
+        "image": "results/output_20250505123153.jpg",
+        "animal_counts": {
+            "Elephant": 6
+        },
+        "behaviors": {
+            "Elephant_trumpeting": 1,
+            "Elephant_grazing": 5
+        },
+        "zip": "results/result_20250505123153.zip"
+    },
+    {
+        "image": "results/output_20250505123301.jpg",
+        "animal_counts": {
+            "Elephant": 2,
+            "Zebra": 4
+        },
+        "behaviors": {
+            "Elephant_running": 2,
+            "Zebra_trumpeting": 1,
+            "Zebra_running": 2,
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250505123301.zip"
+    },
+    {
+        "image": "results/output_20250505123354.jpg",
+        "animal_counts": {
+            "Elephant": 4
+        },
+        "behaviors": {
+            "Elephant_grazing": 3,
+            "Elephant_trumpeting": 1
+        },
+        "zip": "results/result_20250505123354.zip"
+    },
+    {
+        "image": "results/output_20250505123458.jpg",
+        "animal_counts": {
+            "Elephant": 4
+        },
+        "behaviors": {
+            "Elephant_grazing": 2,
+            "Elephant_trumpeting": 1,
+            "Elephant_running": 1
+        },
+        "zip": "results/result_20250505123458.zip"
+    },
+    {
+        "image": "results/output_20250505123615.jpg",
+        "animal_counts": {
+            "Zebra": 4
+        },
+        "behaviors": {
+            "Zebra_running": 3,
+            "Zebra_resting": 1
+        },
+        "zip": "results/result_20250505123615.zip"
+    },
+    {
+        "image": "results/output_20250505123649.jpg",
+        "animal_counts": {
+            "Zebra": 3
+        },
+        "behaviors": {
+            "Zebra_running": 2,
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250505123649.zip"
+    },
+    {
+        "image": "results/output_20250505123726.jpg",
+        "animal_counts": {
+            "Zebra": 4
+        },
+        "behaviors": {
+            "Zebra_grazing": 3,
+            "Zebra_running": 1
+        },
+        "zip": "results/result_20250505123726.zip"
+    },
+    {
+        "image": "results/output_20250505123809.jpg",
+        "animal_counts": {
+            "Zebra": 2
+        },
+        "behaviors": {
+            "Zebra_running": 1,
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250505123809.zip"
+    },
+    {
+        "image": "results/output_20250505123850.jpg",
+        "animal_counts": {
+            "Zebra": 4
+        },
+        "behaviors": {
+            "Zebra_running": 4
+        },
+        "zip": "results/result_20250505123850.zip"
+    },
+    {
+        "image": "results/output_20250505123949.jpg",
+        "animal_counts": {
+            "Zebra": 5
+        },
+        "behaviors": {
+            "Zebra_running": 4,
+            "Zebra_resting": 1
+        },
+        "zip": "results/result_20250505123949.zip"
+    },
+    {
+        "image": "results/output_20250505124055.jpg",
+        "animal_counts": {
+            "Zebra": 4
+        },
+        "behaviors": {
+            "Zebra_grazing": 3,
+            "Zebra_running": 1
+        },
+        "zip": "results/result_20250505124055.zip"
+    },
+    {
+        "image": "results/output_20250505124300.jpg",
+        "animal_counts": {
+            "Zebra": 3
+        },
+        "behaviors": {
+            "Zebra_running": 2,
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250505124300.zip"
+    },
+    {
+        "image": "results/output_20250505124341.jpg",
+        "animal_counts": {
+            "Zebra": 5
+        },
+        "behaviors": {
+            "Zebra_grazing": 4,
+            "Zebra_running": 1
+        },
+        "zip": "results/result_20250505124341.zip"
+    },
+    {
+        "image": "results/output_20250505124426.jpg",
+        "animal_counts": {
+            "Zebra": 3
+        },
+        "behaviors": {
+            "Zebra_grazing": 3
+        },
+        "zip": "results/result_20250505124426.zip"
+    },
+    {
+        "image": "results/output_20250505124551.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_trumpeting": 1,
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250505124551.zip"
+    },
+    {
+        "image": "results/output_20250505131505.jpg",
+        "animal_counts": {
+            "Zebra": 3
+        },
+        "behaviors": {
+            "Zebra_grazing": 3
+        },
+        "zip": "results/result_20250505131505.zip"
+    },
+    {
+        "image": "results/output_20250505131531.jpg",
+        "animal_counts": {
+            "Zebra": 4
+        },
+        "behaviors": {
+            "Zebra_grazing": 3,
+            "Zebra_running": 1
+        },
+        "zip": "results/result_20250505131531.zip"
+    },
+    {
+        "image": "results/output_20250505131755.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_trumpeting": 1,
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250505131755.zip"
+    },
+    {
+        "image": "results/output_20250604220355.jpg",
+        "animal_counts": {
+            "Deer": 6
+        },
+        "behaviors": {
+            "Deer_running": 4,
+            "Deer_grazing": 2
+        },
+        "zip": "results/result_20250604220355.zip"
+    },
+    {
+        "image": "results/output_20250604220409.jpg",
+        "animal_counts": {
+            "Zebra": 3
+        },
+        "behaviors": {
+            "Zebra_grazing": 3
+        },
+        "zip": "results/result_20250604220409.zip"
+    },
+    {
+        "image": "results/output_20250604220420.jpg",
+        "animal_counts": {
+            "Zebra": 3
+        },
+        "behaviors": {
+            "Zebra_running": 2,
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250604220420.zip"
+    },
+    {
+        "image": "results/output_20250604220440.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_trumpeting": 1,
+            "Elephant_grazing": 2
+        },
+        "zip": "results/result_20250604220440.zip"
+    },
+    {
+        "image": "results/output_20250604220557.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 3
+        },
+        "zip": "results/result_20250604220557.zip"
+    },
+    {
+        "image": "results/output_20250604220802.jpg",
+        "animal_counts": {
+            "Deer": 4,
+            "Zebra": 2
+        },
+        "behaviors": {
+            "Deer_grazing": 4,
+            "Zebra_grazing": 2
+        },
+        "zip": "results/result_20250604220802.zip"
+    },
+    {
+        "image": "results/output_20250604220839.jpg",
+        "animal_counts": {
+            "Zebra": 4
+        },
+        "behaviors": {
+            "Zebra_grazing": 3,
+            "Zebra_running": 1
+        },
+        "zip": "results/result_20250604220839.zip"
+    },
+    {
+        "image": "results/output_20250604220905.jpg",
+        "animal_counts": {
+            "Zebra": 3
+        },
+        "behaviors": {
+            "Zebra_running": 2,
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250604220905.zip"
+    },
+    {
+        "image": "results/output_20250604220922.jpg",
+        "animal_counts": {
+            "Zebra": 3
+        },
+        "behaviors": {
+            "Zebra_grazing": 3
+        },
+        "zip": "results/result_20250604220922.zip"
+    },
+    {
+        "image": "results/output_20250604221001.jpg",
+        "animal_counts": {
+            "Deer": 5,
+            "Zebra": 1
+        },
+        "behaviors": {
+            "Deer_grazing": 2,
+            "Deer_running": 1,
+            "Deer_resting": 2,
+            "Zebra_resting": 1
+        },
+        "zip": "results/result_20250604221001.zip"
+    },
+    {
+        "image": "results/output_20250604221050.jpg",
+        "animal_counts": {
+            "Deer": 5
+        },
+        "behaviors": {
+            "Deer_grazing": 1,
+            "Deer_running": 1,
+            "Deer_resting": 3
+        },
+        "zip": "results/result_20250604221050.zip"
+    },
+    {
+        "image": "results/output_20250604221234.jpg",
+        "animal_counts": {
+            "Elephant": 6,
+            "Zebra": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 5,
+            "Elephant_trumpeting": 1,
+            "Zebra_trumpeting": 1
+        },
+        "zip": "results/result_20250604221234.zip"
+    },
+    {
+        "image": "results/output_20250604221317.jpg",
+        "animal_counts": {
+            "Elephant": 5,
+            "Zebra": 1
+        },
+        "behaviors": {
+            "Elephant_grazing": 4,
+            "Elephant_trumpeting": 1,
+            "Zebra_grazing": 1
+        },
+        "zip": "results/result_20250604221317.zip"
+    },
+    {
+        "image": "results/output_20250604221501.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 3
+        },
+        "zip": "results/result_20250604221501.zip"
+    },
+    {
+        "image": "results/output_20250604221600.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 3
+        },
+        "zip": "results/result_20250604221600.zip"
+    },
+    {
+        "image": "results/output_20250604221653.jpg",
+        "animal_counts": {
+            "Elephant": 5
+        },
+        "behaviors": {
+            "Elephant_grazing": 2,
+            "Elephant_trumpeting": 3
+        },
+        "zip": "results/result_20250604221653.zip"
+    },
+    {
+        "image": "results/output_20250604221823.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 1,
+            "Elephant_trumpeting": 2
+        },
+        "zip": "results/result_20250604221823.zip"
+    },
+    {
+        "image": "results/output_20250604222105.jpg",
+        "animal_counts": {
+            "Zebra": 4
+        },
+        "behaviors": {
+            "Zebra_grazing": 4
+        },
+        "zip": "results/result_20250604222105.zip"
+    },
+    {
+        "image": "results/output_20250604222201.jpg",
+        "animal_counts": {
+            "Zebra": 5
+        },
+        "behaviors": {
+            "Zebra_grazing": 5
+        },
+        "zip": "results/result_20250604222201.zip"
+    },
+    {
+        "image": "results/output_20250604222258.jpg",
+        "animal_counts": {
+            "Zebra": 4
+        },
+        "behaviors": {
+            "Zebra_grazing": 4
+        },
+        "zip": "results/result_20250604222258.zip"
+    },
+    {
+        "image": "results/output_20250604222416.jpg",
+        "animal_counts": {
+            "Zebra": 4
+        },
+        "behaviors": {
+            "Zebra_grazing": 4
+        },
+        "zip": "results/result_20250604222416.zip"
+    },
+    {
+        "image": "results/output_20250604222518.jpg",
+        "animal_counts": {
+            "Zebra": 8
+        },
+        "behaviors": {
+            "Zebra_running": 5,
+            "Zebra_grazing": 3
+        },
+        "zip": "results/result_20250604222518.zip"
+    },
+    {
+        "image": "results/output_20250604222720.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 1,
+            "Elephant_trumpeting": 2
+        },
+        "zip": "results/result_20250604222720.zip"
+    },
+    {
+        "image": "results/output_20250614130208.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 3
+        },
+        "zip": "results/result_20250614130208.zip"
+    },
+    {
+        "image": "results/output_20250614130221.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 3
+        },
+        "zip": "results/result_20250614130221.zip"
+    },
+    {
+        "image": "results/output_20250614140154.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 3
+        },
+        "zip": "results/result_20250614140154.zip"
+    },
+    {
+        "image": "results/output_20250614182828.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 3
+        },
+        "zip": "results/result_20250614182828.zip"
+    },
+    {
+        "image": "results/output_20250614182923.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 3
+        },
+        "zip": "results/result_20250614182923.zip"
+    },
+    {
+        "image": "results/output_20250614185400.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 3
+        },
+        "zip": "results/result_20250614185400.zip"
+    },
+    {
+        "image": "results/output_20250614185736.jpg",
+        "animal_counts": {
+            "Elephant": 3
+        },
+        "behaviors": {
+            "Elephant_grazing": 3
+        },
+        "zip": "results/result_20250614185736.zip"
+    }
+]
